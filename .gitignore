@@ -1,0 +1,7 @@
+yolov5/
+venv/
+env/
+experiments/
+model/
+train/code
+train/data
