@@ -1,0 +1,1 @@
+https://github.com/hieuphanuit/id-card-detector/blob/main/train.ipynb
